@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>3553F685DEEE3B35E1CDAAF0EE117DB88A5CB714E3229F759112095B2791269A</Signature>
+  <Content>
+    <Project Guid="bda27ac8-48b5-4181-a11d-12f365293693">
+      <DisplayName Value="HarmonyBarkTest"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="0e538a81-dd23-4fb8-ae2f-cb23df2d5368"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="637311124847043784"/>
+      <PartitionHash Value="21B8D0D5C703CA6CC8C94A872F1EA588CCD0881862513A73A6BC5F25F34249FD"/>
+      <SaveFileVersion Value="55"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
