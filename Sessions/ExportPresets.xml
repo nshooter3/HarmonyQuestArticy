@@ -1,7 +1,7 @@
 <ExportPresets LastType="Unity3DExport">
   <Preset DisplayName="" Type="Unity3DExport">
     <ExportSettings Type="Unity3DExport">
-      <Filename>C:\Users\Matthew\Documents\GameDev\HarmonyQuest\HarmonyQuest\Assets\HarmonyBarkTest.articyu3d</Filename>
+      <Filename>C:\Users\nicks\Documents\Unity\HarmonyQuest\Assets\HarmonyBarkTest.articyu3d</Filename>
       <CustomSettings>
         <Option Name="set_Localization" Value="False"/>
         <Option Name="set_TextFormatter" Value="Unity"/>
